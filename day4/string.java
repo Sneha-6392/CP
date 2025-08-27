@@ -1,5 +1,5 @@
 package CP.day4;
-import java.util.*;
+// import java.util.*;
 // Check if two strings are equal (case-sensitive and case-insensitive).
 // public class string {
 //     public static void main(String[] args) {
