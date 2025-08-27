@@ -1,4 +1,4 @@
-package BridgeLabz.day3.arrays;
+package CP.day3;
 /* Create a program to print a multiplication table of a number. */
 import java.util.*;
 public class ques3 {

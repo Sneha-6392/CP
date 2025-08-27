@@ -1,4 +1,4 @@
-package BridgeLabz.day3.arrays;
+package CP.day3;
 /* Create a program to save odd and even numbers into odd and even arrays between 1 to the number entered by the user. Finally, print the odd and even numbers array */
 import java.util.*;
 public class ques7 {

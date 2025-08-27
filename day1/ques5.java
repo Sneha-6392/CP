@@ -1,5 +1,5 @@
 // Volume of a Cylinder
-package BridgeLabz.day1;
+package CP.day1;
 import java.util.*;
 public class ques5 {
     public static void main(String[] args) {

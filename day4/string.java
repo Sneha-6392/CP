@@ -1,4 +1,4 @@
-package BridgeLabz.day4;
+package CP.day4;
 import java.util.*;
 // Check if two strings are equal (case-sensitive and case-insensitive).
 // public class string {

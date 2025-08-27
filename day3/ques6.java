@@ -1,4 +1,4 @@
-package BridgeLabz.day3.arrays;
+package CP.day3;
 /* Create a program to find the mean height of players present in a football team. */
 import java.util.*;
 public class ques6 {

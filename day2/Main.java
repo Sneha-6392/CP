@@ -1,4 +1,4 @@
-package BridgeLabz.day2;
+package CP.day2;
 // 1. Create a class Car with instance variables model and year. Create two car objects and display their details.
 
 // class Car {

@@ -1,5 +1,5 @@
 // Perimeter of a Rectangle
-package BridgeLabz.day1;
+package CP.day1;
 import java.util.*;
 public class Sques2 {
     public static void main(String[] args) {
