@@ -1,22 +1,22 @@
 package CP.Leetcode;
 // 206. Reverse Linked List
-public class ListNode {
+public class P206 {
     int val;
-    ListNode next;
-    ListNode() {}
-    ListNode(int val) {
+    P206 next;
+    P206() {}
+    P206(int val) {
         this.val = val;
     }
-    ListNode(int val, ListNode next) {
+    P206(int val, P206 next) {
         this.val = val;
         this.next = next;
     }
 }
 class Solution {
-    public ListNode reverseList(ListNode head) {
-        ListNode curr = head;
-        ListNode prev = null;
-        ListNode next = null;
+    public P206 reverseList(P206 head) {
+        P206 curr = head;
+        P206 prev = null;
+        P206 next = null;
         while (curr != null) {
             next = curr.next;
             curr.next = prev;
