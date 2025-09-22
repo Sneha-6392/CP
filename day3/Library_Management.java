@@ -1,4 +1,4 @@
-package CP;
+package CP.day3;
 /*
 Library Management with Books and Authors
 Description: Model a Book system where Book is the superclass, and Author is a subclass.

@@ -1,4 +1,4 @@
-package CP;
+package CP.day3;
 /*
  * Smart Home Devices
 Description: Create a hierarchy for a smart home system where Device is the superclass and Thermostat is a subclass.
